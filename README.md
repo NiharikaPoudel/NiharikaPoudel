@@ -1,7 +1,7 @@
 # Hi 👋, I'm Niharika Poudel  
 
 🎓 IT student at **Islington College**, under **London Metropolitan University**  
-💻 Learning **MERN Stack, Python, AI, and DSA** – passionate about **software development**  
+💻 Learning **MERN Stack, and DSA** – passionate about **software development**  
 🚀 Looking for **Software Developer / IT Intern** opportunities to kickstart my tech career  
 
 ---
